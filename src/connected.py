@@ -1,7 +1,7 @@
 import numpy as np 
 import cv2
 
-testImg= 'document-1.png'
+testImg= 'document.png'
 tempImg= 'blur2.png'
 ######## Extracting details from image and writing into another
 
